@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>随记</title>
   
-  
+  <subtitle>这是一种生活</subtitle>
   <link href="https://helloauth.github.io/atom.xml" rel="self"/>
   
   <link href="https://helloauth.github.io/"/>
